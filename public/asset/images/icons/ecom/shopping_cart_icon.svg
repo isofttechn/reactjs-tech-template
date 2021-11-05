@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ecommerce &amp; web</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="75.4765625%" y1="91.8652344%" x2="23.3007812%" y2="9.76367188%" id="linearGradient-1">
+            <stop stop-color="#C282B7" offset="0%"></stop>
+            <stop stop-color="#E9BAE1" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-8.8%" y="-15.0%" width="117.6%" height="130.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic/ecommerce">
+            <g id="ecommerce-&amp;-web">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="25" cy="25" r="25"></circle>
+                <path d="M9,37 C8.44771525,37 8,36.5522847 8,36 L8,35 C8,34.4477153 8.44771525,34 9,34 L10,34 L10,18 C10,17.4477153 10.4477153,17 11,17 L39,17 C39.5522847,17 40,17.4477153 40,18 L40,34 L41,34 C41.5522847,34 42,34.4477153 42,35 L42,36 C42,36.5522847 41.5522847,37 41,37 L9,37 Z" id="Combined-Shape" fill="#C485B9" filter="url(#filter-2)"></path>
+                <g id="Group" transform="translate(8.000000, 15.000000)">
+                    <path d="M3,0 L31,0 C31.5522847,-1.01453063e-16 32,0.44771525 32,1 L32,19 C32,19.5522847 31.5522847,20 31,20 L3,20 C2.44771525,20 2,19.5522847 2,19 L2,1 C2,0.44771525 2.44771525,1.01453063e-16 3,0 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    <path d="M1,17 L33,17 C33.5522847,17 34,17.4477153 34,18 L34,19 C34,19.5522847 33.5522847,20 33,20 L1,20 C0.44771525,20 6.76353751e-17,19.5522847 0,19 L0,18 C-6.76353751e-17,17.4477153 0.44771525,17 1,17 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    <g id="shopping-cart" transform="translate(10.000000, 4.000000)" fill="#D2A8CA" fill-rule="nonzero">
+                        <path d="M10.5,9 C9.67499282,9 9,9.67499282 9,10.5 C9,11.3250072 9.67499282,12 10.5,12 C11.3250072,12 12,11.3250072 12,10.5 C12,9.67499282 11.3250072,9 10.5,9 Z" id="Path"></path>
+                        <path d="M12.906478,2.41140491 C12.8091834,2.29735577 12.6794883,2.21589655 12.5173307,2.21589655 L2.99962205,2.21589655 L2.56184289,0.374737351 C2.51321111,0.146639067 2.31862191,0 2.09163221,0 L0.486410938,0 C0.210789453,0 0,0.211787729 0,0.488786493 C0,0.765785257 0.210789453,0.977572986 0.486410938,0.977572986 L1.70248484,0.977572986 L3.27527457,7.62526265 C3.32390635,7.85336093 3.51849556,8 3.74548526,8 L11.3175191,8 C11.5445088,8 11.739098,7.85336093 11.7877298,7.62526265 L12.9875724,2.81873219 C13.0200039,2.67209312 12.9875724,2.52545406 12.906478,2.41140491 Z" id="Path"></path>
+                        <path d="M4.5,9 C3.67499282,9 3,9.67499282 3,10.5 C3,11.3250072 3.67499282,12 4.5,12 C5.32500718,12 6,11.3250072 6,10.5 C6,9.67499282 5.32500718,9 4.5,9 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

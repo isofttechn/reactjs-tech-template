@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <linearGradient id="a" x1="75.477%" x2="23.301%" y1="91.865%" y2="9.764%">
+            <stop offset="0%" stop-color="#C282B7"/>
+            <stop offset="100%" stop-color="#E9BAE1"/>
+        </linearGradient>
+        <filter id="b" width="164.7%" height="190.9%" x="-32.4%" y="-40.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.768627451 0 0 0 0 0.521568627 0 0 0 0 0.725490196 0 0 0 1 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter id="c" width="117.6%" height="130%" x="-8.8%" y="-15%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="25" cy="25" r="25" fill="url(#a)"/>
+        <g filter="url(#b)" transform="translate(8 15)">
+            <path fill="#C485B9" d="M32 19h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1h1V3a1 1 0 0 1 1-1h28a1 1 0 0 1 1 1v16z" filter="url(#c)"/>
+            <path fill="#FFF" d="M32 17h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1h1V1a1 1 0 0 1 1-1h28a1 1 0 0 1 1 1v16z"/>
+            <g fill="#D2A8CA" fill-rule="nonzero">
+                <path d="M22.618 14.893c-.566 0-1.03.434-1.058.978h-3.157a1.045 1.045 0 0 0-.967-.974v-1.512h-.865v1.51a1.047 1.047 0 0 0-.991.977h-3.14a1.048 1.048 0 0 0-1.058-.979h-.708c-.584 0-1.059.463-1.059 1.031v.737c0 .569.475 1.031 1.06 1.031h.707c.566 0 1.03-.434 1.058-.978h3.14c.028.544.491.978 1.057.978h.708c.566 0 1.03-.434 1.058-.978h3.157c.028.544.492.978 1.058.978h.708c.584 0 1.059-.462 1.059-1.03v-.738c0-.568-.475-1.03-1.06-1.03h-.707z"/>
+                <path d="M24.277 8.5a3.126 3.126 0 0 0-1.773-1.113c.228-.348.341-.73.341-1.143a2.04 2.04 0 0 0-.623-1.5 2.057 2.057 0 0 0-1.507-.62 2.02 2.02 0 0 0-1.38.513 4.24 4.24 0 0 0-1.56-1.905 4.139 4.139 0 0 0-2.385-.73c-1.176 0-2.18.415-3.012 1.243-.832.828-1.248 1.828-1.248 2.999 0 .083.006.201.017.356A3.664 3.664 0 0 0 9.59 7.954a3.59 3.59 0 0 0-.591 2c0 1.022.365 1.896 1.094 2.622a3.598 3.598 0 0 0 2.634 1.09h9.053c.882 0 1.635-.311 2.259-.932.624-.621.936-1.371.936-2.25a3.07 3.07 0 0 0-.7-1.983z"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>EC686276-91DE-4EE9-BC60-1DCB880762B4</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="75.4765625%" y1="91.8652344%" x2="23.3007812%" y2="9.76367188%" id="linearGradient-1">
+            <stop stop-color="#6CBAF7" offset="0%"></stop>
+            <stop stop-color="#C8E7FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-16.7%" y="-11.5%" width="133.3%" height="123.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Services-Icon" transform="translate(-120.000000, -758.000000)">
+            <g id="Mobile-app-testing-services" transform="translate(120.000000, 758.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="25" cy="25" r="25"></circle>
+                <g id="Group" transform="translate(15.932642, 11.658031)">
+                    <path d="M1,2 L17,2 C17.5522847,2 18,2.44771525 18,3 L18,27 C18,27.5522847 17.5522847,28 17,28 L1,28 C0.44771525,28 6.76353751e-17,27.5522847 0,27 L0,3 C-6.76353751e-17,2.44771525 0.44771525,2 1,2 Z" id="Rectangle" fill="#6CBAF7" filter="url(#filter-2)"></path>
+                    <path d="M1,0 L17,0 C17.5522847,-1.01453063e-16 18,0.44771525 18,1 L18,25 C18,25.5522847 17.5522847,26 17,26 L1,26 C0.44771525,26 6.76353751e-17,25.5522847 0,25 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    <path d="M21.7247291,15.3448134 L18.6833008,12.303441 C18.667137,12.2872772 18.6481767,12.2759793 18.6312857,12.260934 C19.2297389,11.353131 19.579023,10.2664631 19.579023,9.09785756 C19.579023,5.91895284 17.002039,3.34196891 13.8231902,3.34196891 C10.6443414,3.34196891 8.06735751,5.91895284 8.06735751,9.09780163 C8.06735751,12.2765945 10.6442855,14.8536344 13.8231343,14.8536344 C14.9917958,14.8536344 16.0784077,14.5043503 16.9862108,13.9058971 C17.001256,13.9227321 17.012498,13.9416925 17.0286618,13.9578563 L20.070146,16.9993405 C20.5270398,17.4561784 21.2677794,17.4561784 21.7247291,16.9993405 C22.181567,16.5424467 22.181567,15.8017072 21.7247291,15.3448134 Z M13.8231902,12.8582686 C11.7462782,12.8582686 10.0626674,11.1746577 10.0626674,9.09780163 C10.0626674,7.02088962 11.7463342,5.33727877 13.8231902,5.33727877 C15.8999904,5.33727877 17.5836572,7.02094555 17.5836572,9.09780163 C17.5836572,11.1746577 15.8999904,12.8582686 13.8231902,12.8582686 Z" id="Shape" fill="#6DACDE" fill-rule="nonzero" opacity="0.703008743"></path>
+                    <circle id="Oval" fill="#87C9FD" cx="9.5" cy="22.5" r="1.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

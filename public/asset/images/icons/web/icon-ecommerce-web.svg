@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <linearGradient id="a" x1="75.477%" x2="23.301%" y1="91.865%" y2="9.764%">
+            <stop offset="0%" stop-color="#C282B7"/>
+            <stop offset="100%" stop-color="#E9BAE1"/>
+        </linearGradient>
+        <filter id="b" width="117.6%" height="130%" x="-8.8%" y="-15%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="25" cy="25" r="25" fill="url(#a)"/>
+        <path fill="#C485B9" d="M40 34h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1h1V18a1 1 0 0 1 1-1h28a1 1 0 0 1 1 1v16z" filter="url(#b)"/>
+        <path fill="#FFF" d="M11 15h28a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H11a1 1 0 0 1-1-1V16a1 1 0 0 1 1-1z"/>
+        <path fill="#FFF" d="M9 32h32a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1z"/>
+        <g fill="#D2A8CA" fill-rule="nonzero">
+            <path d="M28.5 28c-.825 0-1.5.675-1.5 1.5s.675 1.5 1.5 1.5 1.5-.675 1.5-1.5-.675-1.5-1.5-1.5zM30.906 21.411a.507.507 0 0 0-.389-.195H21l-.438-1.841a.47.47 0 0 0-.47-.375h-1.606a.479.479 0 0 0-.486.489c0 .277.21.489.486.489h1.216l1.573 6.647a.47.47 0 0 0 .47.375h7.573a.47.47 0 0 0 .47-.375l1.2-4.806a.51.51 0 0 0-.082-.408zM22.5 28c-.825 0-1.5.675-1.5 1.5s.675 1.5 1.5 1.5 1.5-.675 1.5-1.5-.675-1.5-1.5-1.5z"/>
+        </g>
+    </g>
+</svg>

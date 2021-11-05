@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <linearGradient id="a" x1="74.145%" x2="23.301%" y1="89.77%" y2="9.764%">
+            <stop offset="0%" stop-color="#EEBB97"/>
+            <stop offset="100%" stop-color="#FDE8DA"/>
+        </linearGradient>
+        <filter id="b" height="130%" y="-15%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="25" cy="25" r="25" fill="url(#a)"/>
+        <path fill="#F6B684" d="M1 2h28a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1z" filter="url(#b)" transform="translate(10 15)"/>
+        <path fill="#FFF" d="M11 15h28a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H11a1 1 0 0 1-1-1V16a1 1 0 0 1 1-1z"/>
+        <g fill-rule="nonzero">
+            <g fill="#E7B08B">
+                <path d="M33.945 18h-15.89v10.77h15.89V18zm-2.144 9.154h-6.328v-1.077H31.8v1.077zm0-2.154h-6.328v-1.077H31.8V25zm0-2.154h-6.328V21.77H31.8v1.077zm0-2.154h-6.328v-1.077H31.8v1.077zM18.582 32h14.836c.874 0 1.582-.723 1.582-1.615v-.539H17v.539c0 .892.708 1.615 1.582 1.615z"/>
+            </g>
+            <path fill="#E7B08B" stroke="#FFF" d="M16.712 25.177a4.611 4.611 0 1 0-1.889-1.889l-1.932 1.932a1.336 1.336 0 0 0 1.89 1.889l1.931-1.932z"/>
+            <path fill="#FFF" d="M18.46 23L17 21.673l.763-.693.697.634L20.237 20l.763.693z"/>
+        </g>
+    </g>
+</svg>

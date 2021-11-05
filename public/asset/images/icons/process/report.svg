@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <linearGradient id="a" x1="74.145%" x2="23.301%" y1="89.77%" y2="9.764%">
+            <stop offset="0%" stop-color="#EEBB97"/>
+            <stop offset="100%" stop-color="#FDE8DA"/>
+        </linearGradient>
+        <filter id="b" width="127.3%" height="121.4%" x="-13.6%" y="-10.7%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="25" cy="25" r="25" fill="url(#a)"/>
+        <path fill="#F6B684" d="M15 13h20a1 1 0 0 1 1 1v26a1 1 0 0 1-1 1H15a1 1 0 0 1-1-1V14a1 1 0 0 1 1-1z" filter="url(#b)"/>
+        <path fill="#FFF" d="M15 11h20a1 1 0 0 1 1 1v26a1 1 0 0 1-1 1H15a1 1 0 0 1-1-1V12a1 1 0 0 1 1-1z"/>
+        <path fill="#F6A25F" d="M31.487 15H18.18c-.652 0-1.18.522-1.18 1.167 0 .644.528 1.166 1.18 1.166h13.307c.652 0 1.18-.522 1.18-1.166 0-.645-.528-1.167-1.18-1.167zM31.487 20H18.18c-.652 0-1.18.522-1.18 1.167 0 .644.528 1.166 1.18 1.166h13.307c.652 0 1.18-.522 1.18-1.166 0-.645-.528-1.167-1.18-1.167zM28.487 25H18.18c-.652 0-1.18.522-1.18 1.167 0 .644.528 1.166 1.18 1.166h10.307c.652 0 1.18-.522 1.18-1.166 0-.645-.528-1.167-1.18-1.167zM31.487 33H27.18c-.652 0-1.18.522-1.18 1.167 0 .644.528 1.166 1.18 1.166h4.307c.652 0 1.18-.522 1.18-1.166 0-.645-.528-1.167-1.18-1.167z" opacity=".704"/>
+    </g>
+</svg>

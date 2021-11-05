@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <linearGradient id="a" x1="75.477%" x2="23.301%" y1="91.865%" y2="9.764%">
+            <stop offset="0%" stop-color="#36CFC8"/>
+            <stop offset="100%" stop-color="#BAF9F6"/>
+        </linearGradient>
+        <filter id="b" width="117.5%" height="130.6%" x="-8.7%" y="-15.3%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="1"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="25" cy="25" r="25" fill="url(#a)"/>
+        <path fill="#30B8B1" d="M40.342 33.66h.978a1 1 0 0 1 1 1v.94a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-.94a1 1 0 0 1 1-1h1.06V18a1 1 0 0 1 1-1h28.282a1 1 0 0 1 1 1v15.66z" filter="url(#b)" opacity=".8"/>
+        <path fill="#FFF" d="M11 15h28a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H11a1 1 0 0 1-1-1V16a1 1 0 0 1 1-1z"/>
+        <path fill="#FFF" d="M9 32h32a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-1a1 1 0 0 1 1-1z"/>
+        <g fill="#3EBCB6" fill-opacity=".7" fill-rule="nonzero">
+            <path d="M27 20v4h-4v-4zM32 20v4h-4v-4zM22 20v4h-4v-4zM32 25v6H18v-6h14zm-8.89 4.084l1.504-1.386 2.137 1.97.982-.905 1.337 1.232.58-.534-1.917-1.768-.982.906-2.137-1.971-1.504 1.387-2.18-2.01-.58.534 2.76 2.545z"/>
+        </g>
+    </g>
+</svg>
